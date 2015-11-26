@@ -4,6 +4,14 @@
 	<groupId>CSVComparator</groupId>
 	<artifactId>CSVComparator</artifactId>
 	<version>-v1.0</version>
+	
+	<developers>
+	    <developer>
+	        <name>Akash Sethiya</name>
+	        <email>akashsethiya82@gmail.com</email>
+	    </developer>
+	</developers>
+	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
